@@ -1100,11 +1100,11 @@ h4.modal-title {
 } 
 .contact input[type="text"],.contact input[type="email"] {
     width: 100%;
-    color: #fff;
+    color: #000;
     float: left;
     background: none;
     outline: none;
-    font-size: 1em;
+    font-size: 1.1em;
     padding: 1em 1em;
     margin-bottom: 1em;
     border: solid 2px #333;
