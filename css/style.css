@@ -1115,8 +1115,8 @@ h4.modal-title {
     resize: none;
     width: 100%;
     background: none;
-    color: #999;
-    font-size: 1em;
+    color: #000;
+    font-size: 1.1em;
     outline: none;
     padding: 1em .8em;
     border: solid 2px #333;
