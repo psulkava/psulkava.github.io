@@ -51,8 +51,12 @@
 			<div class="col-md-6 w3-banner-grid-left">
 				<div class="w3-banner-img">
 					<img src="images/face.jpg" alt="img">
-					<h3 class="test">Pietari Sulkava</h3>
-					<p class="test" >Software Engineer</p>
+                    <h3 class="test">Pietari Sulkava</h3>
+                    <p class="test" >Software Engineer</p>
+                    <button onclick="document.getElementById('pronunciation').play()" class="pronunciation-button">
+                        <i class="fa  fa-volume-up pronunciation column"></i>
+                    </button>
+                    <audio id="pronunciation" src="audio/pronunication.mp3" />
 				</div>
 			</div>
 			<div class="col-md-6 w3-banner-grid-right">
@@ -84,14 +88,20 @@
                     -->
 								<li>
 									<ul class="agileits-address-text">
-										<li class="agile-it-adress-left"><b>E-MAIL</b></li>
+                                        <li class="agile-it-adress-left"><b>E-MAIL</b><i class="fa  fa-envelope contact-icon"></i></li>
 										<li><span>:</span><a href="mailto:contact@pietarisulkava.com">contact@pietarisulkava.com</a></li>
 									</ul>
 								</li>
 								<li>
 									<ul class="agileits-address-text">
-										<li class="agile-it-adress-left"><b>Github</b></li>
+                                        <li class="agile-it-adress-left"><b>Github</b><i class="fa  fa-github contact-icon"></i></li>
 										<li><span>:</span><a href="https://www.github.com/psulkava">github.com/psulkava</a></li>
+									</ul>
+								</li>
+								<li>
+									<ul class="agileits-address-text">
+                                        <li class="agile-it-adress-left"><b>Instagram</b><i class="fa  fa-instagram contact-icon"></i></li>
+										<li><span>:</span><a href="https://www.instagram.com/pt.sulkava">instagram.com/pt.sulkava</a></li>
 									</ul>
 								</li>
 							</ul> 
