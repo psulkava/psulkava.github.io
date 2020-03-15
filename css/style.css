@@ -113,7 +113,7 @@ ul.address li ul.agileits-address-text li {
     font-family: 'Text Me One', sans-serif;
 }
 ul.address li ul.agileits-address-text li:nth-child(1) {
-    width: 85px;
+    width: 98px;
 }
 .w3-banner-grids {
     padding: 9em 0 0 0;
@@ -1302,7 +1302,7 @@ h4.modal-title {
 }
 @media(max-width:1280px){
 	.w3-banner-top {
-    background: url(../images/ban6666.jpg) no-repeat -194px 0px;
+    background: url(../images/ban6666.jpg) no-repeat -50px 0px;
     background-size: cover;
 	}
 }
@@ -1333,7 +1333,7 @@ h4.modal-title {
     height: 210px;
 	}
 	.w3-banner-top {
-    background: url(../images/ban6666.jpg) no-repeat -376px 0px;
+    background: url(../images/ban6666.jpg) no-repeat -290px 0px;
     background-size: cover;
 	}
 	.w3-edu-info2 h3 {
@@ -1423,14 +1423,14 @@ h4.modal-title {
 @media(max-width:800px){
 	.w3-banner-img {
     width: 350px;
-    height: 350px;
+    height: 375px;
     margin:0;
 	}
 	.w3-banner-img h3 {
     font-size: 2.3em;
 	}
 	.w3-banner-top {
-    background: url(../images/ban6666.jpg) no-repeat -637px 0px;
+    background: url(../images/ban6666.jpg) no-repeat -600px 0px;
     background-size: cover;
 	}
 	.w3-edu-grid-left {
@@ -1475,7 +1475,7 @@ h4.modal-title {
 @media(max-width:667px){
 	.w3-banner-img {
     width: 290px;
-    height: 290px;
+    height: 340px;
     margin: 0;
 	}
 	.w3-banner-img h3 {
@@ -1527,7 +1527,7 @@ h4.modal-title {
 @media(max-width:600px){
 	.w3-banner-img {
     width: 257px;
-    height: 257px;
+    height: 325px;
 	}
 	.w3-banner-img {
     padding: 22px;
@@ -1652,7 +1652,7 @@ h4.modal-title {
     padding: 13px 0px;
 	}
 	.w3-banner-top {
-    background: url(../images/ban6666.jpg) no-repeat -1005px 0px;
+    background: url(../images/ban6666.jpg) no-repeat -940px 0px;
     background-size: cover;
 	}
 	.title-w3ls h4, .w3ls-heading h3, .w3-gallery-head h3, .w3-about-head h3 {
