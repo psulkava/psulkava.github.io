@@ -1734,6 +1734,7 @@ h4.modal-title {
 	}
 	.thim-click-to-bottom {
     bottom: 3%;
+    left: 85%;
 	}
 	.simplefilter li, .multifilter li, .sortandshuffle li {
     padding: 0px 13px 9px;
@@ -1778,7 +1779,7 @@ h4.modal-title {
     min-height: 800px;
 	}
 	.thim-click-to-bottom {
-    bottom: 5%;
+	  display: none;
 	}
 	.w3-about-grid-left2 h4 {
     width: 29%;
