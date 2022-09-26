@@ -1607,7 +1607,7 @@ h4.modal-title {
     height: 200px;
 	}
 }
-@media(max-width:480px){
+@media(max-width:550px){
 	.col-md-6.w3-banner-grid-left {
     width: 100%;
     float: left;
